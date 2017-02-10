@@ -1,0 +1,14 @@
+.main-header {
+  background-color:	#FAEBD7;
+  height: 200px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.text-button {
+  display:inline;
+}
+.col-md-4 {
+  background-color: #7FFFD4;
+  height: 600px;
+}
